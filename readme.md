@@ -1,4 +1,4 @@
-# CSE226: Android Appdevelopment
+# CSE226: Android App Development
 
 ## [Personal Notes](/Notes/readme.md)
 ## Unit 1: List and Recycler View
@@ -29,3 +29,8 @@
 - [Saving Image in SQLite Database](/Units/4/2.md)
 - [CustomListView Using SQLiteDatabase](/Units/4/3.md)
 - [Fetching Data From SQLiteDatabase to Next Activity](/Units/4/4.md)
+
+# CSE227: Advanced Android App Development
+
+## Unit 1: Firebase
+- [Firebase Authentication (Email and Password)](/Units/CSE227/1/1.md)
