@@ -42,3 +42,4 @@
 - [Transition](/Units/CSE227/2/1.md)
 - [Animation](/Units/CSE227/2/2.md)
 - [Canvas (Digital Signature)](/Units/CSE227/2/3.md)
+- [Canvas (Digital Signature) with colour options](/Units/CSE227/2/4.md)
