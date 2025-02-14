@@ -39,4 +39,5 @@
 
 ## Unit 2: Advance Graphics
 - [Transition](/Units/CSE227/2/1.md)
+- [Animation](/Units/CSE227/2/2.md)
 - [Canvas (Digital Signature)](/Units/CSE227/2/3.md)
