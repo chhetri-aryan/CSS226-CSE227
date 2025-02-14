@@ -35,3 +35,6 @@
 ## Unit 1: Firebase
 - [Firebase Authentication (Email and Password)](/Units/CSE227/1/1.md)
 - [Firebase Google Authentication](/Units/CSE227/1/2.md)
+
+## Unit 2: Advance Graphics
+- [Canvas (Digital Signature)](/Units/CSE227/2/3.md)
