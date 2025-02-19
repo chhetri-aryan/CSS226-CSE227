@@ -43,3 +43,4 @@
 - [Animation](/Units/CSE227/2/2.md)
 - [Canvas (Digital Signature)](/Units/CSE227/2/3.md)
 - [Canvas (Digital Signature) with colour options](/Units/CSE227/2/4.md)
+- [Horse Animation](/Units/CSE227/2/5.md)
