@@ -44,3 +44,6 @@
 - [Canvas (Digital Signature)](/Units/CSE227/2/3.md)
 - [Canvas (Digital Signature) with colour options](/Units/CSE227/2/4.md)
 - [Horse Animation](/Units/CSE227/2/5.md)
+
+## Unit 2: Advance Networking with Retrofit
+- [Retrofit News Api](/Units/CSE227/3/1.md)
