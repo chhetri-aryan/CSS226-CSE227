@@ -47,3 +47,4 @@
 
 ## Unit 2: Advance Networking with Retrofit
 - [Retrofit News Api](/Units/CSE227/3/1.md)
+- [Retrofit WeatherApi](/Units/CSE227/3/2.md)
