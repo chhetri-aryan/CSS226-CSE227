@@ -52,3 +52,4 @@
 
 ## Unit 4: Sensors
 - [Light Sensor](/Units/CSE227/4/1.md)
+- [Proximity Sensor](/Units/CSE227/4/2.md)
