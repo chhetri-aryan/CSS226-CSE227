@@ -54,3 +54,4 @@
 - [Light Sensor](/Units/CSE227/4/1.md)
 - [Proximity Sensor](/Units/CSE227/4/2.md)
 - [Gyroscope Sensor](/Units/CSE227/4/3.md)
+- [Accelerometer Sensor](/Units/CSE227/4/4.md)
