@@ -57,3 +57,4 @@
 - [Accelerometer Sensor](/Units/CSE227/4/4.md)
 - [Magnetic Field Sensor (Compass)](/Units/CSE227/4/5.md)
 - [Step Counter](/Units/CSE227/4/6.md)
+- [All Sensors](/Units/CSE227/4/7.md)
