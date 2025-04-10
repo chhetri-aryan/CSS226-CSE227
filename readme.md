@@ -58,3 +58,6 @@
 - [Magnetic Field Sensor (Compass)](/Units/CSE227/4/5.md)
 - [Step Counter](/Units/CSE227/4/6.md)
 - [All Sensors](/Units/CSE227/4/7.md)
+
+## Unit 5: Device Connectivity and Wireless Communication
+- [Bluetooth (Get Paired Devices)](/Units/CSE227/5/1.md)
