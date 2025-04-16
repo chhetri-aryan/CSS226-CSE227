@@ -62,3 +62,4 @@
 ## Unit 5: Device Connectivity and Wireless Communication
 - [Bluetooth (Get Paired Devices)](/Units/CSE227/5/1.md)
 - [Bluetooth (Available Devices)](/Units/CSE227/5/2.md)
+- [Wifi (Available Devices)](/Units/CSE227/5/3.md)
