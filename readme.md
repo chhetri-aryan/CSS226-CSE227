@@ -67,3 +67,4 @@
 
 ## Unit 6: Web-Based Content
 - [WebView Example](/Units/CSE227/6/1.md)
+- [Print The WebPage](/Units/CSE227/6/2.md)
