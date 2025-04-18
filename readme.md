@@ -64,3 +64,6 @@
 - [Bluetooth (Available Devices)](/Units/CSE227/5/2.md)
 - [Wifi (Available Devices)](/Units/CSE227/5/3.md)
 - [Wifi (Speed Test)](/Units/CSE227/5/4.md)
+
+## Unit 6: Web-Based Content
+- [WebView Example](/Units/CSE227/6/1.md)
